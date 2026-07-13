@@ -1,4 +1,4 @@
-# New Video Idea Hunting System
+# New Video Idea Hunting
 
 ## Content Intelligence Engine
 
