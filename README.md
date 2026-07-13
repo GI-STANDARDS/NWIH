@@ -1,6 +1,6 @@
 # New Video Idea Hunting System
 
-## AI-Powered Content Intelligence Engine
+## Content Intelligence Engine
 
 ## Finds What Missing In Market
 
