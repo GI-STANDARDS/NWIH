@@ -1,7 +1,8 @@
-# NWIH
 # New Video Idea Hunting System
 
 ## AI-Powered Content Intelligence Engine
+
+## Finds What Missing In Market
 
 A system that combines **LLMs, classic Python libraries, and data analysis techniques** to discover high-potential video ideas from real audience signals.
 
